@@ -43,33 +43,36 @@
 
 Single and Multi-dimensional Arrays, Sparse Matrices (Array and Linked Representation)
 
-1. **Stacks**
+2. **Stacks**
 
 Implementing single / multiple stack/s in an Array; Prefix, Infix and Postfix expressions, Utility and conversion of these expressions from one to another; Applications of stack; Limitations of Array representation of stack
-2. **Linked Lists**
+3. **Linked Lists**
 
 Singly, Doubly and Circular Lists (Array and Linked representation); Normal and Circular representation of Stack in Lists; Self Organizing Lists; Skip Lists
 
-1. **Queues**
+4. **Queues**
 
 Array and Linked representation of Queue, De-queue, Priority Queues
 
-1. **Recursion** 
+5. **Recursion** 
 
 Developing Recursive Definition of Simple Problems and their implementation; Advantages and Limitations of Recursion; Understanding what goes behind Recursion (Internal Stack Implementation)
-2. **Trees**
+
+6. **Trees**
 
 Introduction to Tree as a data structure; Binary Trees (Insertion, Deletion , Recursive and Iterative Traversals on Binary Search Trees); Threaded Binary Trees (Insertion, Deletion, Traversals); Height-Balanced Trees (Various operations on AVL Trees).
 
-1. **Searching and Sorting**
+7. **Searching and Sorting**
 
 Linear Search, Binary Search, Comparison of Linear and Binary Search, Selection Sort,
 
 Insertion Sort, Insertion Sort, Shell Sort, Comparison of Sorting Techniques
 
-1. **Hashing**
+8. **Hashing**
 
 Introduction to Hashing, Deleting from Hash Table, Efficiency of Rehash Methods, Hash Table Reordering, Resolving collusion by Open Addressing, Coalesced Hashing, Separate Chaining, Dynamic and Extendible Hashing, Choosing a Hash Function, Perfect Hashing Function 
+
+
 **Reference Books:**
 
 1. Adam Drozdek, "Data Structures and algorithm in C++"_,_ Third Edition, Cengage Learning, 2012.
